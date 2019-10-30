@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{168:function(t,e,n){"use strict";n.r(e);var a={name:"centeredMarkdown"},l=n(0),c=Object(l.a)(a,function(){var t=this.$createElement;return(this._self._c||t)("div",{staticStyle:{"text-align":"center"}},[this._t("default")],2)},[],!1,null,null,null);e.default=c.exports}}]);
